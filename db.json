@@ -35,6 +35,18 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "Tofu",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "Tofu",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 8
     }
   ]
 }
